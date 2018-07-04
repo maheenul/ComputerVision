@@ -8,7 +8,7 @@ This directory contains all the lab works of Computer Vision, completed using MA
 
 This directory contains the following works:
 
-1. [Introductory Lab](1-IntroLab/README.md): Covers the basics concepts and MATLAB's tools required for Computer Vision.
+1. [Introductory Lab](1-IntroLab/): Covers the basics concepts and MATLAB's tools required for Computer Vision.
 
 2. [Edge Detector](2-EdgeDetector/README.md): Step-by-step instructions to build an edge detector from stratch.
 
